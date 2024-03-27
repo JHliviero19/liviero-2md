@@ -1,15 +1,13 @@
 @charset"UTF-8"
 
-body
-{
-background-color: black;
+body {
+  background-color: black;
   color: red;
   font-size: 12 pt;
-font-family:Arial;
+  font-family: Arial;
 }
 
-h1;
-{
+h1 {
   color: blue;
-font-family:Arial;
+  font-family: Arial;
 }
